@@ -1,0 +1,3 @@
+# Install with: pip install -r requirements.txt
+# ultralytics pulls in a compatible torch/torchvision build for your platform.
+ultralytics>=8.3.0
